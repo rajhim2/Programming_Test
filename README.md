@@ -1,15 +1,15 @@
 # Programming_Test
 ## GSoC 2018 Programming competency Test
 ### Source Code Files:
-test1.hpp,
+library.h,
 
-test13.cpp
+main.cpp
 
-#### test1.hpp
-This header file contains the headers to perform all the matrix operation as stated in the competency test i.e., + and * ,+= and * =. These files may still have bugs and it will be very kind of you if you send it to me using issue pages or on my mail [raj.himanshu2@gmail.com]
+#### library.h
+This header file contains the overloaded operator functions and use of expression template.These files may still have bugs and it will be very kind of you if you send it to me using issue pages or on my mail [raj.himanshu2@gmail.com]
 
-#### test13.cpp
-This .cpp file tests the header file for the above operations mentioned.
+#### main.cpp
+This .cpp file tests the header file for the operations mentioned in the project description of Boost.uBLAS.
 
 Thank You,
 
